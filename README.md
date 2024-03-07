@@ -1,6 +1,8 @@
 # ReactFacts-App
 
 ReactFacts-App is a simple yet engaging web application built with React.js that showcases interesting facts about React. This project is perfect for beginners looking to dive into React.
+<br />
+Project Link: https://architkakkar-reactfacts-app.netlify.app
 
 ## Features
 
@@ -47,9 +49,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Archit Kakkar - [@_architkakkar](https://x.com/_architkakkar) - business.architkakkar@gmail.com
-<br />
-Project Link: https://architkakkar-reactfacts-app.netlify.app
-
 
 ## Support
 
